@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'ed-normal';
+    src: url('BYekan.eot');
+    src: url('BYekan.eot?#iefix') format('embedded-opentype'),
+    url('BYekan.woff') format('woff'),
+    url('BYekan.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'ed-normal2';
+    src: url('BRoya.eot');
+    src: url('BRoya.eot?#iefix') format('embedded-opentype'),
+    url('BRoya.woff') format('woff'),
+    url('BRoya.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'ed-title';
+    src: url('BSinaBold.eot');
+    src: url('BSinaBold.eot?#iefix') format('embedded-opentype'),
+    url('BSinaBold.woff') format('woff'),
+    url('BSinaBold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}

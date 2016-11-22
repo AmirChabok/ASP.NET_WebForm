@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="ErrorMessage001" xml:space="preserve">
+    <value>شما به تعداد {0} دفعه لاگین نموده اید:)</value>
+  </data>
+  <data name="ErrorMessage002" xml:space="preserve">
+    <value>تکميل فيلد {0} الزامی است!</value>
+  </data>
+  <data name="ErrorMessage003" xml:space="preserve">
+    <value>لطفا فایلی را برای بازنمودن انتخاب نمائید</value>
+  </data>
+  <data name="ErrorMessage004" xml:space="preserve">
+    <value>فایل یا صفحه {0} در سیستم وجود ندارد !</value>
+  </data>
+  <data name="ErrorMessage005" xml:space="preserve">
+    <value> خطا !مشکلی در بازنمون فایل وجود دارد</value>
+  </data>
+  <data name="ErrorMessage006" xml:space="preserve">
+    <value>خطا !مشکلی در ذخیره نمودن فایل وجود دارد</value>
+  </data>
+  <data name="ErrorMessage007" xml:space="preserve">
+    <value>لطفا قبل از ادامه کار خطاهای ذیل را برطرف نمائید.</value>
+  </data>
+  <data name="ErrorMessage008" xml:space="preserve">
+    <value>نام کاربری معتبر نمی باشد !</value>
+  </data>
+  <data name="ErrorMessage009" xml:space="preserve">
+    <value>گذرواژه معتبر نمی باشد !</value>
+  </data>
+  <data name="ErrorMessage010" xml:space="preserve">
+    <value>رایانامه معتبر نمی باشد !</value>
+  </data>
+  <data name="ErrorMessage011" xml:space="preserve">
+    <value>مقادیر وارد شده گذرواژه ها یکسان نیست!</value>
+  </data>
+  <data name="ErrorMessage012" xml:space="preserve">
+    <value>نام کاربری را وارد نمائید!</value>
+  </data>
+  <data name="ErrorMessage013" xml:space="preserve">
+    <value>نام کاربری یا گذرواژه اشتباه است!</value>
+  </data>
+  <data name="ErrorMessage014" xml:space="preserve">
+    <value>کاربر {0} عزیز , دسترسی شما  به وبسایت در  حال حاضر  امکان پذیر نمیباشد.لطفا با پشتیبانی وبسایت تماس حاصل فرمائید.</value>
+  </data>
+  <data name="ErrorMessage015" xml:space="preserve">
+    <value>نام کاربری قبلا ثبت شده است لطفا نام دیگری را انتخاب نمائید</value>
+  </data>
+  <data name="ErrorMessage016" xml:space="preserve">
+    <value>رایانامه قبلا ثبت شده است لطفا نام دیگری را انتخاب نمائید</value>
+  </data>
+  <data name="ErrorMessage017" xml:space="preserve">
+    <value>کاربری با مشخصات ذیل یافت نشد!</value>
+  </data>
+  <data name="ErrorMessage018" xml:space="preserve">
+    <value>صفحه {0} نیاز به مجوز دسترسی دارد.در حال حاضر شما دارای این مجوز نیستید!</value>
+  </data>
+  <data name="ErrorMessage019" xml:space="preserve">
+    <value>کاربر گرامی لطفا به رایانامه خود مراجعه نموده و لینک تائید عضویت را کلیک نمائید</value>
+  </data>
+  <data name="ErrorMessage020" xml:space="preserve">
+    <value>خطای ناشناخته ای صورت پذیرفته است لطفا در زمان دیگری اقدام نمائید.</value>
+  </data>
+  <data name="ErrorMessage021" xml:space="preserve">
+    <value>کاربری با شناسه وارد شده در سیستم وجود ندارد!</value>
+  </data>
+  <data name="ErrorMessage022" xml:space="preserve">
+    <value>مقدار کلید وارسی را صحيح وارد نمائيد.</value>
+  </data>
+  <data name="ErrorMessage023" xml:space="preserve">
+    <value>ایمیل شما قبلا تائید شده است میتوانید وارد وبسایت شوید</value>
+  </data>
+  <data name="ErrorMessage024" xml:space="preserve">
+    <value>لطفا فایلی را برای  ایجاد انتخاب نمائید</value>
+  </data>
+  <data name="ErrorMessage025" xml:space="preserve">
+    <value>شماره وارد شده صحیح نمیباشد!</value>
+  </data>
+  <data name="ErrorMessage026" xml:space="preserve">
+    <value>آپلود فایل با مشکل مواجه شده است لطفا مجددا سعی نمائید</value>
+  </data>
+  <data name="ErrorMessage027" xml:space="preserve">
+    <value>فایل آواتار مشخص نشده است</value>
+  </data>
+  <data name="ErrorMessage028" xml:space="preserve">
+    <value>میباشد jpeg پسوند مجاز برای آپلود عکس</value>
+  </data>
+  <data name="ErrorMessage029" xml:space="preserve">
+    <value>پسوند فایل تغییر داده شده است</value>
+  </data>
+  <data name="ErrorMessage030" xml:space="preserve">
+    <value>آپلود فایل با مشکل مواجه شده است لطفا مجددا سعی نمائید</value>
+  </data>
+  <data name="ErrorMessage031" xml:space="preserve">
+    <value>حداکثر حجم مجاز برای آپلود 121 کیلوبایت میباشد</value>
+  </data>
+  <data name="ErrorMessage032" xml:space="preserve">
+    <value>حداکثر طول و عرض برای فایل 121 پیکسل میباشد</value>
+  </data>
+  <data name="ErrorMessage033" xml:space="preserve">
+    <value>حداکثر حجم مجاز برای آپلود 300 کیلوبایت میباشد</value>
+  </data>
+  <data name="ErrorMessage034" xml:space="preserve">
+    <value>حداکثر طول و عرض برای فایل 800 پیکسل میباشد</value>
+  </data>
+  <data name="ErrorMessage035" xml:space="preserve">
+    <value>میباشد  jpeg or png پسوند مجاز برای آپلود عکس</value>
+  </data>
+  <data name="InformationMessage001" xml:space="preserve">
+    <value>فایل {0} با موفقیت باز شد</value>
+  </data>
+  <data name="InformationMessage002" xml:space="preserve">
+    <value>فایل {0} با موفقیت ذخیره شد</value>
+  </data>
+  <data name="InformationMessage003" xml:space="preserve">
+    <value>{0} خوش آمدید</value>
+  </data>
+  <data name="InformationMessage004" xml:space="preserve">
+    <value>ثبت نام شما با موفقیت انجام پذیرفت . حال میتوانید برای ورود لاگین نمائید</value>
+  </data>
+  <data name="InformationMessage005" xml:space="preserve">
+    <value>کاربر با نام کاربری {0} با موفقیت از پایگاه حذف گردید.</value>
+  </data>
+  <data name="InformationMessage006" xml:space="preserve">
+    <value>پروفایل شما با موفقیت بروز رسانی شد.</value>
+  </data>
+  <data name="InformationMessage007" xml:space="preserve">
+    <value>گذرواژه شما با موفقیت تغییر یافت.</value>
+  </data>
+  <data name="InformationMessage008" xml:space="preserve">
+    <value>گذرواژه جدید در صورت درست بودن اطلاعات وارد شده ارسال گردید</value>
+  </data>
+  <data name="InformationMessage009" xml:space="preserve">
+    <value>عملیات با موفقیت انجام شد</value>
+  </data>
+  <data name="InformationMessage010" xml:space="preserve">
+    <value>کاربر با موفقیت ایجاد و یک پیام به آدرس رایانامه وی ارسال گردید</value>
+  </data>
+  <data name="InformationMessage011" xml:space="preserve">
+    <value>صفحه یا فایل {0} نظر با موفقیت ایجاد گردید.</value>
+  </data>
+  <data name="InformationMessage012" xml:space="preserve">
+    <value>پست با موفقیت ایجاد شد.</value>
+  </data>
+  <data name="InformationMessage013" xml:space="preserve">
+    <value>پست با موفقیت بروز رسانی گردید.</value>
+  </data>
+  <data name="InformationMessage014" xml:space="preserve">
+    <value>پست با موفقیت حذف گردید.</value>
+  </data>
+  <data name="InformationMessage015" xml:space="preserve">
+    <value>پست با عنوان {0} با موفقیت از پایگاه حذف گردید.</value>
+  </data>
+  <data name="InformationMessage016" xml:space="preserve">
+    <value>دیدگاه  با موفقیت از پایگاه حذف گردید.</value>
+  </data>
+  <data name="InformationMessage017" xml:space="preserve">
+    <value>فایل با موفقیت آپلود گردید</value>
+  </data>
+  <data name="InformationMessage018" xml:space="preserve">
+    <value>فایل با موفقیت حذف گردید</value>
+  </data>
+  <data name="Update" xml:space="preserve">
+    <value>بروزرسانی</value>
+  </data>
+  <data name="VerificationKeyVerified" xml:space="preserve">
+    <value>کلید با موفقیت تائید گردید</value>
+  </data>
+  <data name="Welcome" xml:space="preserve">
+    <value> *** به سایت خودتان خوش آمديد ***</value>
+  </data>
+</root>

@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<siteMap enableLocalization="true" xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode
+		url=""
+		title="$Resources:SiteMap,MainMenuTitle"
+		description="$Resources:SiteMap,MainMenuTitle">
+
+    <siteMapNode
+			url="~/Default.aspx"
+			title="$Resources:SiteMap,HomeTitle"
+			description="$Resources:SiteMap,HomeTitle">
+    </siteMapNode>
+
+    <siteMapNode
+     url="~/Help.aspx"
+     title="$Resources:SiteMap,Help"
+     description="$Resources:SiteMap,Help">
+    </siteMapNode>
+
+    <siteMapNode
+			url="~/About.aspx"
+			title="$Resources:SiteMap,AboutTitle"
+			description="$Resources:SiteMap,AboutTitle">
+    </siteMapNode>
+
+    <siteMapNode
+    url="~/Register.aspx"
+    title="$Resources:SiteMap,Register"
+    description="$Resources:SiteMap,Register">
+    </siteMapNode>
+
+    <siteMapNode
+			url="~/Login.aspx"
+			title="$Resources:SiteMap,LoginTitle"
+			description="$Resources:SiteMap,LoginTitle">
+    </siteMapNode>
+
+    <siteMapNode
+     url="~/ForgetPassword.aspx"
+     title="$Resources:SiteMap,ForgetPassword"
+     description="$Resources:SiteMap,ForgetPassword">
+    </siteMapNode>
+
+   
+
+    
+
+    <siteMapNode roles="Programmer,Administrator,User" title="$Resources:SiteMap,UserControlPanelTitle" description="$Resources:SiteMap,UserControlPanelTitle">
+      <siteMapNode url="~/Users/UploadAvatar.aspx" title="$Resources:SiteMap,UploadAvatarTitle" description="$Resources:SiteMap,UploadAvatarTitle"/>
+      <siteMapNode url="~/Users/UpdateProfile.aspx" title="$Resources:SiteMap,UpdateProfileTitle" description="$Resources:SiteMap,UpdateProfileTitle"/>
+      <siteMapNode url="~/Users/ChangePassword.aspx" title="$Resources:SiteMap,ChangePasswordTitle" description="$Resources:SiteMap,ChangePasswordDescription"/>
+    </siteMapNode>
+
+    <siteMapNode roles="Administrator" title="$Resources:SiteMap,AdministratorControlPanelTitle" description="$Resources:SiteMap,AdministratorControlPanelTitle">
+
+      <siteMapNode
+        url="~/Administrator/EditPageContent.aspx"
+        title="$Resources:SiteMap,EditPageContent"
+        description="$Resources:SiteMap,EditPageContent">
+      </siteMapNode>
+
+      <siteMapNode
+       url="~/Administrator/ManageUsers.aspx"
+       title="$Resources:SiteMap,ManageUsers"
+       description="$Resources:SiteMap,ManageUsers">
+      </siteMapNode>
+
+      <siteMapNode
+       url="~/Administrator/CreatePost.aspx"
+       title="$Resources:SiteMap,CreatePost"
+       description="$Resources:SiteMap,CreatePost">
+      </siteMapNode>
+
+      <siteMapNode
+      url="~/Administrator/ManagePosts.aspx"
+      title="$Resources:SiteMap,ManagePost"
+      description="$Resources:SiteMap,ManagePost">
+      </siteMapNode>
+      
+     <siteMapNode
+      url="~/Administrator/ManagePages.aspx"
+      title="$Resources:SiteMap,ManagePages"
+      description="$Resources:SiteMap,ManagePages">
+      </siteMapNode>
+
+      <siteMapNode
+     url="~/Administrator/ManageComments.aspx"
+     title="$Resources:SiteMap,ManageComments"
+     description="$Resources:SiteMap,ManageComments">
+      </siteMapNode>
+      
+    </siteMapNode>
+
+  </siteMapNode>
+</siteMap>

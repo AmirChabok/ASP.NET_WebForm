@@ -1,0 +1,92 @@
+D:\Golden C#\ASP\DNN_121\IranDnn_Community_06.02.06_Install\DesktopModules\DataAccessLayer\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+D:\Golden C#\ASP\DNN_121\IranDnn_Community_06.02.06_Install\DesktopModules\DataAccessLayer\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\Golden C#\ASP\DNN_121\IranDnn_Community_06.02.06_Install\DesktopModules\DataAccessLayer\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\Golden C#\ASP\DNN_121\IranDnn_Community_06.02.06_Install\DesktopModules\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+D:\Golden C#\ASP\DNN_121\IranDnn_Community_06.02.06_Install\DesktopModules\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\Golden C#\ASP\DNN_121\IranDnn_Community_06.02.06_Install\DesktopModules\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Amir\Desktop\DataAccessLayer\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Amir\Desktop\DataAccessLayer\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Amir\Desktop\DataAccessLayer\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Amir\Desktop\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Amir\Desktop\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Amir\Desktop\UploadAvatar_W - Copy\DataAccessLayer\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Amir\Desktop\UploadAvatar_W - Copy\DataAccessLayer\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Amir\Desktop\UploadAvatar_W - Copy\DataAccessLayer\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Amir\Desktop\UploadAvatar_W - Copy\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Amir\Desktop\UploadAvatar_W - Copy\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Amir\Desktop\ChangePassword\DataAccessLayer\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Amir\Desktop\ChangePassword\DataAccessLayer\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Amir\Desktop\ChangePassword\DataAccessLayer\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Amir\Desktop\ChangePassword\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Amir\Desktop\ChangePassword\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Amir\Desktop\ChangePassword\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Amir\Desktop\ADMIN02\DataAccessLayer\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Amir\Desktop\ADMIN02\DataAccessLayer\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Amir\Desktop\ADMIN02\DataAccessLayer\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Amir\Desktop\ADMIN02\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Amir\Desktop\ADMIN02\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Amir\Desktop\ADMIN02\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Amir\Desktop\ADMIN06_CodeCreatePost\DataAccessLayer\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Amir\Desktop\ADMIN06_CodeCreatePost\DataAccessLayer\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Amir\Desktop\ADMIN06_CodeCreatePost\DataAccessLayer\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Amir\Desktop\ADMIN06_CodeCreatePost\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Amir\Desktop\ADMIN06_CodeCreatePost\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Amir\Desktop\ADMIN06_CodeCreatePost\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Amir\Desktop\ADMIN09_ManagePostView\DataAccessLayer\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Amir\Desktop\ADMIN09_ManagePostView\DataAccessLayer\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Amir\Desktop\ADMIN09_ManagePostView\DataAccessLayer\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Amir\Desktop\ADMIN09_ManagePostView\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Amir\Desktop\ADMIN09_ManagePostView\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Amir\Desktop\ADMIN10_ManagePostCode_1\DataAccessLayer\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Amir\Desktop\ADMIN10_ManagePostCode_1\DataAccessLayer\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Amir\Desktop\ADMIN10_ManagePostCode_1\DataAccessLayer\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Amir\Desktop\ADMIN10_ManagePostCode_1\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Amir\Desktop\ADMIN10_ManagePostCode_1\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Amir\Desktop\ADMIN10_ManagePostCode_1\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Amir\Desktop\ADMIN12_CommentView\DataAccessLayer\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Amir\Desktop\ADMIN12_CommentView\DataAccessLayer\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Amir\Desktop\ADMIN12_CommentView\DataAccessLayer\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Amir\Desktop\ADMIN12_CommentView\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Amir\Desktop\ADMIN12_CommentView\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\Programming\2014\Documention\Amozesh\ASP.NET\Web Form\2014\WorkShop\Session15_WorkShop\ADMIN14_EditPage_Edit\DataAccessLayer\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+D:\Programming\2014\Documention\Amozesh\ASP.NET\Web Form\2014\WorkShop\Session15_WorkShop\ADMIN14_EditPage_Edit\DataAccessLayer\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\Programming\2014\Documention\Amozesh\ASP.NET\Web Form\2014\WorkShop\Session15_WorkShop\ADMIN14_EditPage_Edit\DataAccessLayer\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\Programming\2014\Documention\Amozesh\ASP.NET\Web Form\2014\WorkShop\Session15_WorkShop\ADMIN14_EditPage_Edit\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+D:\Programming\2014\Documention\Amozesh\ASP.NET\Web Form\2014\WorkShop\Session15_WorkShop\ADMIN14_EditPage_Edit\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\Programming\2014\Documention\Amozesh\ASP.NET\Web Form\2014\WorkShop\Session15_WorkShop\ADMIN14_EditPage_Edit\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\Programming\2014\Salmok\WebSite\EditCode\Salmok01\Salmok01_Image01 OK\DataAccessLayer\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+D:\Programming\2014\Salmok\WebSite\EditCode\Salmok01\Salmok01_Image01 OK\DataAccessLayer\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\Programming\2014\Salmok\WebSite\EditCode\Salmok01\Salmok01_Image01 OK\DataAccessLayer\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\Programming\2014\Salmok\WebSite\EditCode\Salmok01\Salmok01_Image01 OK\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+D:\Programming\2014\Salmok\WebSite\EditCode\Salmok01\Salmok01_Image01 OK\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\Programming\2014\Salmok\WebSite\EditCode\Salmok01\Salmok01_Image01 OK\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\Programming\2014\Salmok\WebSite\EditCode\Salmok01\Salmok01_Image02 OK\DataAccessLayer\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+D:\Programming\2014\Salmok\WebSite\EditCode\Salmok01\Salmok01_Image02 OK\DataAccessLayer\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\Programming\2014\Salmok\WebSite\EditCode\Salmok01\Salmok01_Image02 OK\DataAccessLayer\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\Programming\2014\Salmok\WebSite\EditCode\Salmok01\Salmok01_Image02 OK\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+D:\Programming\2014\Salmok\WebSite\EditCode\Salmok01\Salmok01_Image02 OK\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\Programming\2014\Salmok\WebSite\EditCode\Salmok01\Salmok01_Image02 OK\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\Programming\2014\Salmouk\WebSite\EditCode\Salmok01\Salmok07_FinalDesign\Salmok07_FinalDesign\DataAccessLayer\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+D:\Programming\2014\Salmouk\WebSite\EditCode\Salmok01\Salmok07_FinalDesign\Salmok07_FinalDesign\DataAccessLayer\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\Programming\2014\Salmouk\WebSite\EditCode\Salmok01\Salmok07_FinalDesign\Salmok07_FinalDesign\DataAccessLayer\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\Programming\2014\Salmouk\WebSite\EditCode\Salmok01\Salmok07_FinalDesign\Salmok07_FinalDesign\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+D:\Programming\2014\Salmouk\WebSite\EditCode\Salmok01\Salmok07_FinalDesign\Salmok07_FinalDesign\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\Programming\2014\Salmouk\WebSite\EditCode\Salmok01\Salmok07_FinalDesign\Salmok07_FinalDesign\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\Programming\2014\Salmouk\WebSite\EditCode\Salmok01\Salmok07_Panel01\Salmok07_Panel01\DataAccessLayer\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+D:\Programming\2014\Salmouk\WebSite\EditCode\Salmok01\Salmok07_Panel01\Salmok07_Panel01\DataAccessLayer\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\Programming\2014\Salmouk\WebSite\EditCode\Salmok01\Salmok07_Panel01\Salmok07_Panel01\DataAccessLayer\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\Programming\2014\Salmouk\WebSite\EditCode\Salmok01\Salmok07_Panel01\Salmok07_Panel01\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+D:\Programming\2014\Salmouk\WebSite\EditCode\Salmok01\Salmok07_Panel01\Salmok07_Panel01\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\Programming\2014\Salmouk\WebSite\EditCode\Salmok01\Salmok07_Panel01\Salmok07_Panel01\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\Programming\Learn\DataAccessLayer\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+D:\Programming\Learn\DataAccessLayer\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\Programming\Learn\DataAccessLayer\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\Programming\Learn\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+D:\Programming\Learn\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\Programming\Learn\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Amir\Desktop\121\DataAccessLayer\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Amir\Desktop\121\DataAccessLayer\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Amir\Desktop\121\DataAccessLayer\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Amir\Desktop\121\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Amir\Desktop\121\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Amir\Desktop\121\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache

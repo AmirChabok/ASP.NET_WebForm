@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AvatarName" xml:space="preserve">
+    <value>Avatar Name</value>
+  </data>
+  <data name="Cansel" xml:space="preserve">
+    <value>Cansel</value>
+  </data>
+  <data name="Comment" xml:space="preserve">
+    <value>Comment</value>
+  </data>
+  <data name="CommentActive" xml:space="preserve">
+    <value>Comment Active</value>
+  </data>
+  <data name="CommentId" xml:space="preserve">
+    <value>Comment Id</value>
+  </data>
+  <data name="ConfirmPassword" xml:space="preserve">
+    <value>ConfirmPassword</value>
+  </data>
+  <data name="DeleteAccount" xml:space="preserve">
+    <value>Delete Account</value>
+  </data>
+  <data name="DeleteAvatar" xml:space="preserve">
+    <value>Remove Avatar</value>
+  </data>
+  <data name="Description" xml:space="preserve">
+    <value>Description</value>
+  </data>
+  <data name="Details" xml:space="preserve">
+    <value>Details</value>
+  </data>
+  <data name="Edit" xml:space="preserve">
+    <value>Edit</value>
+  </data>
+  <data name="EditContent" xml:space="preserve">
+    <value>EditContent</value>
+  </data>
+  <data name="Email" xml:space="preserve">
+    <value>Email</value>
+  </data>
+  <data name="EmailDevrified" xml:space="preserve">
+    <value>Email Devrified</value>
+  </data>
+  <data name="EmailVerified" xml:space="preserve">
+    <value>Email Verified</value>
+  </data>
+  <data name="FileName" xml:space="preserve">
+    <value>FileName</value>
+  </data>
+  <data name="FirstName" xml:space="preserve">
+    <value>First Name</value>
+    <comment>First Name</comment>
+  </data>
+  <data name="Forbidden" xml:space="preserve">
+    <value>Forbidden !</value>
+  </data>
+  <data name="ForgetPassword" xml:space="preserve">
+    <value>Forget Password</value>
+  </data>
+  <data name="FullName" xml:space="preserve">
+    <value>Full Name</value>
+    <comment>Full Name</comment>
+  </data>
+  <data name="InsertDateTime" xml:space="preserve">
+    <value>Insert Date and Time</value>
+  </data>
+  <data name="InsertPassword" xml:space="preserve">
+    <value>Insert Post Password</value>
+  </data>
+  <data name="InsertTime" xml:space="preserve">
+    <value>Insert Time</value>
+  </data>
+  <data name="InternalServerError" xml:space="preserve">
+    <value>Internal Server Error !</value>
+  </data>
+  <data name="IsCheckedByWriter" xml:space="preserve">
+    <value>Is Checked ByWriter</value>
+  </data>
+  <data name="IsCommentActive" xml:space="preserve">
+    <value>IsComment Active</value>
+  </data>
+  <data name="IsPrivate" xml:space="preserve">
+    <value>Is Private</value>
+  </data>
+  <data name="IsUserActive" xml:space="preserve">
+    <value>Is User Active ?</value>
+  </data>
+  <data name="Keyword" xml:space="preserve">
+    <value>Keyword</value>
+  </data>
+  <data name="LastLoginTime" xml:space="preserve">
+    <value>Last Login Time</value>
+  </data>
+  <data name="LastName" xml:space="preserve">
+    <value>Last Name</value>
+    <comment>Last Name</comment>
+  </data>
+  <data name="Login" xml:space="preserve">
+    <value>Login</value>
+  </data>
+  <data name="LoginCount" xml:space="preserve">
+    <value>Login Count</value>
+  </data>
+  <data name="Logout" xml:space="preserve">
+    <value>Logout</value>
+  </data>
+  <data name="NewPassword" xml:space="preserve">
+    <value>New Password</value>
+  </data>
+  <data name="OnlineUser" xml:space="preserve">
+    <value>Online User</value>
+  </data>
+  <data name="PageID" xml:space="preserve">
+    <value>Page ID</value>
+  </data>
+  <data name="PageName" xml:space="preserve">
+    <value>Page Name</value>
+  </data>
+  <data name="PageNotFound" xml:space="preserve">
+    <value>Page Not Found</value>
+  </data>
+  <data name="Password" xml:space="preserve">
+    <value>Password</value>
+    <comment>Password</comment>
+  </data>
+  <data name="Post" xml:space="preserve">
+    <value>Post</value>
+  </data>
+  <data name="PostCategory" xml:space="preserve">
+    <value>Post Category</value>
+  </data>
+  <data name="PostCategoryId" xml:space="preserve">
+    <value>Post CategoryId</value>
+  </data>
+  <data name="PostContinue" xml:space="preserve">
+    <value>Insert Post Continue</value>
+  </data>
+  <data name="PostId" xml:space="preserve">
+    <value>Post Id</value>
+  </data>
+  <data name="PostIsActive" xml:space="preserve">
+    <value>Post Is Active ?</value>
+  </data>
+  <data name="PostIsHot" xml:space="preserve">
+    <value>Post Is Hot?</value>
+  </data>
+  <data name="PostPassword" xml:space="preserve">
+    <value>Post Password</value>
+  </data>
+  <data name="PostType" xml:space="preserve">
+    <value>Post Type</value>
+  </data>
+  <data name="PostTypeId" xml:space="preserve">
+    <value>PostTypeId</value>
+  </data>
+  <data name="PostVisitedCount" xml:space="preserve">
+    <value>Post Visited Count</value>
+  </data>
+  <data name="Profile" xml:space="preserve">
+    <value>Profile</value>
+  </data>
+  <data name="Register" xml:space="preserve">
+    <value>Register</value>
+  </data>
+  <data name="Reset" xml:space="preserve">
+    <value>Reset</value>
+  </data>
+  <data name="RoleID" xml:space="preserve">
+    <value>Role ID</value>
+  </data>
+  <data name="RoleName" xml:space="preserve">
+    <value>Role Name</value>
+  </data>
+  <data name="SendNewPost" xml:space="preserve">
+    <value>Send New Post</value>
+  </data>
+  <data name="SessionID" xml:space="preserve">
+    <value>Session ID</value>
+  </data>
+  <data name="ShowDetails" xml:space="preserve">
+    <value>Show Details</value>
+  </data>
+  <data name="Subject" xml:space="preserve">
+    <value>Subject</value>
+  </data>
+  <data name="Submit" xml:space="preserve">
+    <value>Submit</value>
+  </data>
+  <data name="Title" xml:space="preserve">
+    <value>Title</value>
+  </data>
+  <data name="TryAgainTitle" xml:space="preserve">
+    <value>Try Again</value>
+  </data>
+  <data name="UnexpectedError" xml:space="preserve">
+    <value>Unexpected Error !</value>
+  </data>
+  <data name="UpdateTime" xml:space="preserve">
+    <value>Update Time</value>
+  </data>
+  <data name="Upload" xml:space="preserve">
+    <value>Upload</value>
+  </data>
+  <data name="URL" xml:space="preserve">
+    <value>URL</value>
+  </data>
+  <data name="UserActive" xml:space="preserve">
+    <value>User Active</value>
+  </data>
+  <data name="UserDeactive" xml:space="preserve">
+    <value>User Deactive</value>
+  </data>
+  <data name="UserID" xml:space="preserve">
+    <value>User ID</value>
+  </data>
+  <data name="UserManagment" xml:space="preserve">
+    <value>User Managment</value>
+  </data>
+  <data name="Username" xml:space="preserve">
+    <value>Username</value>
+    <comment>Username</comment>
+  </data>
+  <data name="VerificationKey" xml:space="preserve">
+    <value>VerificationKey</value>
+  </data>
+  <data name="Verify" xml:space="preserve">
+    <value>Verify</value>
+  </data>
+  <data name="ViewPostByPassword" xml:space="preserve">
+    <value>View Post By Password</value>
+  </data>
+  <data name="Mobile" xml:space="preserve">
+    <value>Mobile</value>
+  </data>
+  <data name="FPE" xml:space="preserve">
+    <value>Forget Password With Email</value>
+  </data>
+  <data name="FPU" xml:space="preserve">
+    <value>Forget Password With Username</value>
+  </data>
+  <data name="Home" xml:space="preserve">
+    <value>Home</value>
+  </data>
+  <data name="Culture" xml:space="preserve">
+    <value>English</value>
+  </data>
+  <data name="UpdateProfile" xml:space="preserve">
+    <value>Update Profile</value>
+  </data>
+  <data name="UploadImage" xml:space="preserve">
+    <value>UploadImage</value>
+  </data>
+  <data name="CreatePost" xml:space="preserve">
+    <value>CreatePost</value>
+  </data>
+  <data name="UploadPicture" xml:space="preserve">
+    <value>UploadPicture</value>
+  </data>
+  <data name="DeleteImage" xml:space="preserve">
+    <value>Delete Image</value>
+  </data>
+  <data name="KeywordFA" xml:space="preserve">
+    <value>Persian Keyword </value>
+  </data>
+  <data name="CreatePosten" xml:space="preserve">
+    <value>Create English Event</value>
+  </data>
+  <data name="CeratePostfa" xml:space="preserve">
+    <value>Create Persian Event</value>
+  </data>
+  <data name="CreatePostfa" xml:space="preserve">
+    <value>Create Persian Post</value>
+  </data>
+  <data name="CreateNews" xml:space="preserve">
+    <value>Create News</value>
+  </data>
+  <data name="ChangePassword" xml:space="preserve">
+    <value>Change Password</value>
+  </data>
+</root>
